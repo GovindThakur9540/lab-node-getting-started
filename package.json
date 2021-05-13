@@ -8,5 +8,19 @@
   },
   "dependencies": {
     "mocha": "^8.2.1"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GovindThakur9540/lab-node-getting-started.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GovindThakur9540/lab-node-getting-started/issues"
+  },
+  "homepage": "https://github.com/GovindThakur9540/lab-node-getting-started#readme"
 }
